@@ -3,6 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Russia, Cherepovetz
 
+<a href="https://www.github.com/Vietta7" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Vietta7?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a>
+
 ### Skills
 
 
@@ -21,6 +24,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="http://www.github.com/Vietta7"><img src="https://github-readme-stats.vercel.app/api?username=Vietta7&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="Vietta7's GitHub stats" /></a>
 
-<a href="http://www.github.com/Vietta7"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vietta7&bg_color=1c1917&color=ffffff&line=ec4899&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Vietta7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vietta7&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Vietta7" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vietta7&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/Vietta7"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vietta7&bg_color=1c1917&color=ffffff&line=ec4899&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>

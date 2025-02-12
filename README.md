@@ -1,8 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anna Belova
 ===================================================================================================================================
 
-* 🌍  I'm based in Russia, Cherepovetz
-
 <a href="https://www.github.com/Vietta7" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Vietta7?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a>
 
